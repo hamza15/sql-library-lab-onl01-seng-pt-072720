@@ -1,6 +1,6 @@
 def select_books_titles_and_years_in_first_series_order_by_year
   "Write your SQL query here"
-  "SELECT books.title, SUM(books.year)
+  "SELECT books.title, books.year
   FROM books
   ORDER BY books.year"
 end
