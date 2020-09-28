@@ -9,6 +9,9 @@ end
 
 def select_name_and_motto_of_char_with_longest_motto
   "Write your SQL query here"
+  "SELECT charachters.name, charachters.motto
+  FROM charachters
+  WHERE "
 end
 
 
